@@ -1,5 +1,8 @@
 # CAPTURING GAZE SHIFTS FOR GUIDANCE: CROSS-MODAL FUSION ENHANCEMENT FOR VLM HALLUCINATION MITIGATION
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.22067-b31b1b.svg)](https://arxiv.org/abs/2510.22067)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 This repository contains the implementation of the proposed method, GIFT (Gaze Shift-Guided Cross-modal Fusion Enhancement), that mitigates hallucinations in Vision-Language Models (VLMs).
 
 The implementation builds upon Transformers v4.50.0 by modifying attention computation in QwenVL2 and Llama architectures. Visual saliency maps are integrated into the attention mechanism to enhance cross-modal fusion.
@@ -83,5 +86,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
+This library is licensed under the CC BY-NC 4.0 License.
 
