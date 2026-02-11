@@ -1,6 +1,6 @@
 accelerate==1.5.2
 numpy==2.3.3
-Pillow==11.3.0
+Pillow==12.1.1
 PyYAML==6.0.3
 qwen_vl_utils==0.0.14
 spacy==3.8.5
