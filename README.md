@@ -1,7 +1,10 @@
-# CAPTURING GAZE SHIFTS FOR GUIDANCE: CROSS-MODAL FUSION ENHANCEMENT FOR VLM HALLUCINATION MITIGATION
+# Capturing Gaze Shifts for Guidance: Cross-Modal Fusion Enhancement for VLM Hallucination Mitigation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.22067-b31b1b.svg)](https://arxiv.org/abs/2510.22067)
+[![Conference](https://img.shields.io/badge/ICML-2026-blue.svg)](https://icml.cc/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+**Published at ICML 2026.**
 
 This repository contains the implementation of the proposed method, GIFT (Gaze Shift-Guided Cross-modal Fusion Enhancement), that mitigates hallucinations in Vision-Language Models (VLMs).
 
